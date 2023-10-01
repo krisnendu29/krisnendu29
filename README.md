@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisnendu29
-- 👀 I’m interested in chaos theory,Algebra,Cryptology.
-- 🌱 I’m currently learning ML,Python,Non-Linear Dynamics.
+- 👀 I’m interested in Chaos Theory , Algebra , Cryptology.
+- 🌱 I’m currently learning ML , Python , Non-Linear Dynamics.
 - 💞️ I’m looking to collaborate on any project that has NLD and Interesting Math.
 - 📫 How to reach me krisnendu.biswas2020@gmail.com
 
